@@ -1,0 +1,7 @@
+{
+  "name": "@components-studio/amina-sastec.reactnative-l8t6swgp-fork-l8ul6wx2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve mr18Nhy4OC2LwQd5dEyB --open"
+  }
+}
